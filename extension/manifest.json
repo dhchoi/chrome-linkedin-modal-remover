@@ -1,6 +1,6 @@
 {
-  "name": "LinkedIn Sign In Modal Remover",
-  "description": "Removes the sign in modal that covers the page",
+  "name": "LinkedIn Sign-In Modal Remover",
+  "description": "Removes the sign-in modal that covers the whole page and prevents page scrolling",
   "version": "0.1.0",
   "permissions": [
     "activeTab"
